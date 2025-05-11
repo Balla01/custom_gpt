@@ -1,0 +1,4 @@
+1. will the embedding vectors/weigths also get change while training or tuining
+2. how to vizualize the attentions
+3. need to check the data loading part, verify whether all the data is loaded or not 
+4. need to check whether the layout lm embedding creates an impact or not ? 
